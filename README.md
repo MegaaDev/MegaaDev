@@ -17,6 +17,13 @@ Hello, fellow developers and tech enthusiasts! I'm excited to have you visit my 
 
 I've worked on a variety of projects, from web applications to personal projects, and I'm always looking for new ways to push my skills to the limit. Check out my repositories to explore some of my latest work!
 
+#### Projects worked in Delta until date:
+- Festember FrontEnd
+- Aaveg Website
+#### Projects currently working in Delta:
+- DWOC Backend
+- Delta Main Site
+
 ### 🌐 Technologies
 
 My GitHub repositories cover a wide range of technologies, including:
