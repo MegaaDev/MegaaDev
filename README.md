@@ -20,9 +20,11 @@ I've worked on a variety of projects, from web applications to personal projects
 #### Projects worked in Delta until date:
 - Festember FrontEnd
 - Aaveg Website
-#### Projects currently working in Delta:
 - DWOC Backend
-- Delta Main Site
+#### Projects currently working in Delta:
+- OSPBL Management software
+- AOR Pragyan Game
+
 
 ### 🌐 Technologies
 
