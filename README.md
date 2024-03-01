@@ -17,13 +17,20 @@ Hello, fellow developers and tech enthusiasts! I'm excited to have you visit my 
 
 I've worked on a variety of projects, from web applications to personal projects, and I'm always looking for new ways to push my skills to the limit. Check out my repositories to explore some of my latest work!
 
-#### Projects worked in Delta until date:
+#### Projects worked until date:
 - Festember FrontEnd
 - Aaveg Website
 - DWOC Backend
-#### Projects currently working in Delta:
-- OSPBL Management software
+- Voting Dapp
+- CMD Ai
 - AOR Pragyan Game
+- Snake game
+- Droid Defense
+- Quiz app
+  
+#### Projects currently working:
+- OSPBL Management software
+- Blind mock
 
 
 ### 🌐 Technologies
